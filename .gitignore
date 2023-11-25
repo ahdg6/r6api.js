@@ -4,3 +4,4 @@ private
 .env
 *.log
 package-lock.json
+.idea
